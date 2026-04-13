@@ -1,0 +1,66 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "useiterator",
+      "request": "launch",
+      "mainClass": "iteratorrrrrr.useiterator",
+      "projectName": "JAVA_5c7bed96"
+    },
+    {
+      "type": "java",
+      "name": "myexception",
+      "request": "launch",
+      "mainClass": "myexception",
+      "projectName": "JAVA_5c7bed96"
+    },
+    {
+      "type": "java",
+      "name": "exception1",
+      "request": "launch",
+      "mainClass": "exception1",
+      "projectName": "JAVA_5c7bed96"
+    },
+    {
+      "type": "java",
+      "name": "createjar",
+      "request": "launch",
+      "mainClass": "jar.createjar",
+      "projectName": "JAVA_5c7bed96"
+    },
+    {
+      "type": "java",
+      "name": "usesuper",
+      "request": "launch",
+      "mainClass": "usesuper",
+      "projectName": "JAVA_5c7bed96"
+    },
+    {
+      "type": "java",
+      "name": "first",
+      "request": "launch",
+      "mainClass": "first",
+      "projectName": "JAVA_5c7bed96"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/eshak/OneDrive/Desktop/JAVA/cpp",
+      "program": "c:/Users/eshak/OneDrive/Desktop/JAVA/cpp/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
